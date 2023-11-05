@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-
+# The Zombie Game Based On MC
 # When You Playng single or demo you can enable cheats to reset character simply type
 ```ruby
 /kill
