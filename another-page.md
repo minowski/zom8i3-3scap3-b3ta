@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-
+[back](./)
 ## HELP
 
 # This Will Help You With /kill deffinitions
