@@ -1,9 +1,9 @@
 ---
 layout: default
 ---
-[back](./)
-## HELP
 
+## HELP
+[back](./)
 # This Will Help You With /kill deffinitions
 
 Reset Your Self
@@ -14,5 +14,11 @@ or
 ```ruby
 /kill @p
 ```
-
-[back](./)
+Reset All Players
+```ruby
+/kill @a
+```
+Reset player
+```ruby
+/kill [Player]
+```
