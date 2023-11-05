@@ -7,12 +7,8 @@ Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 [Link to another page](./another-page.html).
 
 
-
 ```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
+#Supported Wersions 7,8,8.1,10 and above
 ```
 
 #### Header 4
