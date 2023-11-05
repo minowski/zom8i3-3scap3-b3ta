@@ -2,6 +2,8 @@
 layout: default
 ---
 # The Zombie Game Based On MC
+#### This is A beta Website you can download beta of the game down below
+[Download](https://github.com/minowski/zom8i3-3scap3-b3ta.git).
 # When You Playng single or demo you can enable cheats to reset character simply type
 ```ruby
 /kill
