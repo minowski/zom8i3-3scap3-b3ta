@@ -2,8 +2,6 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
-
 # When You Playng single or demo you can enable cheats to reset character simply type
 ```ruby
 /kill
