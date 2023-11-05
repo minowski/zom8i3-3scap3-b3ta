@@ -2,8 +2,17 @@
 layout: default
 ---
 
-## Welcome to another page
+## HELP
 
-_yay_
+# This Will Help You With /kill deffinitions
+
+Reset Your Self
+```ruby
+/kill 
+```
+or
+```ruby
+/kill @p
+```
 
 [back](./)
