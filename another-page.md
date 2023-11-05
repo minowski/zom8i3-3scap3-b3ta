@@ -2,9 +2,9 @@
 layout: default
 ---
 
-## HELP
+# HELP
 [back](./)
-# This Will teach you how to use /kill command in game
+## This Will teach you how to use /kill command in game
 
 Reset Your Self
 ```ruby
