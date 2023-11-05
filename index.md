@@ -4,13 +4,15 @@ layout: default
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
-[Link to another page](./another-page.html).
-
-
+# When You Playng single or demo you can enable cheats to reset character simply type
 ```ruby
-#Supported Wersions 7,8,8.1,10 and above
+/kill
 ```
-
+or
+```ruby
+/kill @
+```
+[help?](./another-page.html).
 #### Header 4
 
 *   This is an unordered list following a header.
